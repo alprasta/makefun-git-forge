@@ -1,0 +1,14 @@
+{
+  "name": "makefun-git-forge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A GitHub-compatible git forge for the make.fun github-core-clone-01 bounty: git smart HTTP, REST v3, GraphQL and MCP from one Node process, standard library only.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
